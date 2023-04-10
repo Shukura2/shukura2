@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Rides App](https://rides-app-ivory.vercel.app)
 
-- 👨‍💻 All of my projects are available at [abc@abc.com](abc@abc.com)
+- 👨‍💻 All of my projects are available at (https://shukurah.vercel.app/))
 
 - 💬 Ask me about **React JS, Express JS**
 
