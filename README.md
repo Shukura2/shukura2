@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukura2&label=Profile%20views&color=0e75b6&style=flat" alt="shukura2" /> </p>
 
-- 🔭 I’m currently working on [Rides App](https://rides-app-ivory.vercel.app)
+- 🔭 I’m currently working on [Rides App](https://rides-app-livid.vercel.app/)
 
 - 🌱 I’m currently learning **Next JS**
 
-- 👯 I’m looking to collaborate on [Rides App](https://rides-app-ivory.vercel.app)
+- 👯 I’m looking to collaborate on [Rides App](https://rides-app-livid.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://shukurah.vercel.app/)
 
