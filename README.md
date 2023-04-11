@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shukurah Kikelomo</h1>
-<h3 align="center">I love designing accessible, human-centered products and also love exploring new ways of solving real problems</h3>
+<h3 align="center">I help to build an engaging and intuitive user interface that is easy to use and visually appealing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukura2&label=Profile%20views&color=0e75b6&style=flat" alt="shukura2" /> </p>
 
