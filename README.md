@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shukurah Kikelomo</h1>
+<h1 align="center">Hi 👋, I'm Shukurah Nurudeen</h1>
 <h3 align="center">I help to build an engaging and intuitive user interface that is easy to use and visually appealing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shukura2&label=Profile%20views&color=0e75b6&style=flat" alt="shukura2" /> </p>
